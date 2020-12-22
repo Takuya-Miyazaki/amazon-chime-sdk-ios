@@ -616,7 +616,6 @@ customSource.torchEnabled = true
 customSource.torchEnabled = false
 ```
 
-
-
+---
 
 Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
